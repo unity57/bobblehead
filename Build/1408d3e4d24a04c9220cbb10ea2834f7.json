@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Bobblehead Wars",
+"dataUrl": "9895a5f19f2a88198d4eaf11d662d68c.unityweb",
+"asmCodeUrl": "6554365a527a655a939db52692fe8b09.unityweb",
+"asmMemoryUrl": "cd031c3309b67c1a4cf779c2d77fcf8f.unityweb",
+"asmFrameworkUrl": "2772f1c98382d0d491c5ac2c243d5e58.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
